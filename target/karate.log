@@ -1082,3 +1082,453 @@ classpath:conduitApp/feature/Articles.feature:10
 1 < Content-Length: 17318
 {"articles":[{"slug":"Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1","title":"Discover Bondar Academy: Your Gateway to Efficient Learning","description":"Discover Bondar Academy's unique place in the educational landscape, where value-focused and efficient learning approaches converge. Our goal is to rapidly enhance your professional technical skills, boosting your market competitiveness and paving the way for higher-paying job opportunities. The speed of your progress is in your hands – you set the pace, and we provide the solutions and support to help you achieve your desired outcomes.","body":"Bondar Academy is a leading platform for efficient education, designed to boost your technical skills and advance your career in Quality Assurance (QA). Our program features a balanced mix of pre-recorded lectures and live sessions, allowing each student to study at their own pace and at a time that suits them. \n\nOur instructors are readily available on our Slack Workspace for support. Whether it's a quick question or a more complex issue requiring a Zoom call or Slack Huddle for screen sharing and live discussion, we're here to assist. Additionally, each class comes with a comprehensive question bank for self-assessment. Following each lecture, you have the opportunity to validate your understanding and readiness to progress to the next topic. You set the pace, and we provide the solutions to ensure you achieve your desired outcomes.\n\nSignUp today: https://www.bondaracademy.com","tagList":["qa career","Bondar Academy","QA Skills","Value-Focused"],"createdAt":"2024-01-27T21:52:32.682Z","updatedAt":"2024-01-27T21:52:32.682Z","favorited":false,"favoritesCount":865,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"The-value-of-pre-recorded-video-classes.-The-most-efficient-approach-to-tranfer-the-knowledge-1","title":"The value of pre-recorded video classes. The most efficient approach to tranfer the knowledge","description":"As educational practices evolve, video tutorials have emerged as the most efficient method for imparting theoretical knowledge. At Bondar Academy, we prioritize expertly structured and crafted video tutorials, ensuring you learn quickly and effectively and advance your skills.","body":"At Bondar Academy, we prioritize the value of your time and the efficiency of your education, distinguishing our approach from traditional colleges and live boot camps. Forget long, tedious live lectures on a fixed schedule. With us, you learn at your convenience and pace through optimized, structured video lectures. \n\nWe understand your goal is rapid knowledge acquisition. Our pre-recorded and well-organized lectures are designed precisely for this, ensuring no slowdowns from group dynamics or unrelated instructor anecdotes. \n\nDive straight into the subject matter, learn efficiently, and if questions arise, our immediate support on the Slack Workspace is there to streamline your learning process and swiftly remove any roadblocks.","tagList":["Bondar Academy","Video Lectures","Tutorials"],"createdAt":"2024-01-27T21:50:38.825Z","updatedAt":"2024-01-27T21:50:38.825Z","favorited":false,"favoritesCount":357,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Mastering-Knowledge-with-Self-Assessments:-Identifying-and-Bridging-Learning-Gaps-in-Education-1","title":"Mastering Knowledge with Self-Assessments: Identifying and Bridging Learning Gaps in Education","description":"Self-assessment is an essential tool for gauging your understanding of lecture material. It answers critical questions: Have you grasped everything correctly? Is there anything you've missed? Are you prepared for the next lesson? These assessments ensure that you build a solid foundation of knowledge, confidently and efficiently paving the way for swift progress and effective learning outcomes.","body":"Traditional educational institutions, such as colleges and universities, commonly use tests and assessments to measure knowledge. This approach is effective for gauging student performance, but it's not without drawbacks. In these settings, assessments after every lecture aren't feasible due to the time required for teachers to evaluate them. This often leads to students having a false sense of understanding, believing they've comprehended all aspects of a lecture when, in reality, small but crucial details might be missed. These 'knowledge gaps' can accumulate, making more complex topics difficult to grasp later on.\n\nAt Bondar Academy, we address this challenge by implementing self-assessments after every lecture. These are designed to cover key questions that ensure a thorough understanding of the material, essential for comfort and success in future lectures. The number of questions varies, ranging from 3-4 to 15-20, depending on the lecture's significance and the volume of critical information. With these self-assessments, students receive immediate feedback, helping them determine if they've fully understood the lecture or if they need to revisit certain parts or seek assistance from our instructors in the Slack Workspace.","tagList":["Self-Assessment","Test","Exam"],"createdAt":"2024-01-27T21:48:36.340Z","updatedAt":"2024-01-27T21:48:36.340Z","favorited":false,"favoritesCount":163,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Practical-Implementation-of-Skills:-Homework-Assignments-with-Instructor-Supervision-1","title":"Practical Implementation of Skills: Homework Assignments with Instructor Supervision","description":"Knowledge or skills not reinforced through practical exercises can quickly fade, often faster than anticipated. Homework, particularly in tasks like writing your own code, is crucial for honing these skills and cementing your understanding. At Bondar Academy, we ensure this vital step by assigning homework, rigorously evaluating the outcomes, and providing valuable feedback to guide your learning journey.","body":"Homework assignments are a fundamental component of the educational methodology at Bondar Academy, especially in technical education where learning a new programming language or framework is involved. The key to mastering these skills lies in writing code; the more you write, the better you become. However, merely replicating code seen in lectures leads to minimal learning. Often, this approach leaves students unclear about why their code works the way it does, as they focus on copying rather than understanding.\n\nA homework assignment at Bondar Academy starts with a blank page, challenging students to apply all their knowledge to write the first line of code. This process is more demanding than it appears. As you write each line, understanding and reasoning grow, making your code meaningful and comprehensible. You learn to write code that makes sense to you, enhancing your understanding.\n\nIn completing these assignments, you engage the 'thinking' part of your brain, transforming theoretical knowledge into practical skills. Recognizing the crucial role of homework in learning, our instructors at Bondar Academy are always available to assist with any challenges. Just reach out on Slack, and you'll receive the guidance and support needed for successful completion. At Bondar Academy, we fully understand the importance of homework assignments for the best outcome, so our instructors are always here to assist if you have any difficulties with completing them. Just ask in Slack and you'll be guided and assisted.","tagList":["Homework","Assignments","Practice","Coding"],"createdAt":"2024-01-27T21:46:09.512Z","updatedAt":"2024-01-27T21:46:09.512Z","favorited":false,"favoritesCount":78,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1","title":"Embracing Daily Git Routines: Real Code Reviews on GitHub for Effective Coding Practice.","description":"Learning to code is just one part of a larger skill set; effectively managing and organizing code is equally crucial. At Bondar Academy, we integrate Git and platforms like GitHub into the core learning cycle. With us, using Git becomes a regular routine, where organizing code in branches, storing it in remote repositories, and collaborating with others through strategies like branching, merging, pull requests, and code reviews are standard practice.","body":"At Bondar Academy, mastering Git and GitHub is a fundamental step before delving into frameworks or programming languages. Effective code management, organization, and storage are crucial skills, and Git is the premier tool for this purpose. However, many learners initially find Git challenging due to its complexity and non-intuitive nature. To address this, our instructors have developed structured lectures on Git and GitHub, ensuring an efficient and thorough understanding of these essential tools. Git lessons are a mandatory prerequisite in every class. For a glimpse into our teaching approach, visit our YouTube channel: https://www.youtube.com/@BondarAcademy/playlists.\n\nIn our courses, all homework assignments are reviewed using GitHub pull requests, mirroring the workflow in real-world software development environments. Students submit their code to their working branch for review. Our instructors then provide feedback, suggesting modifications or adjustments for pull request approval. This iterative process is repeated throughout the course, establishing Git usage as a natural and routine part of your coding practice.","tagList":["YouTube","Git","GitHub"],"createdAt":"2024-01-27T21:42:31.491Z","updatedAt":"2024-01-27T21:42:31.491Z","favorited":false,"favoritesCount":86,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1","title":"Engaging in Live Zoom Sessions: Interact with Instructors and Peers, Ask Questions in Real-Time","description":"In our increasingly online world, personal engagement remains a crucial element of effective learning. At Bondar Academy, we address this by hosting live Zoom sessions. These sessions provide a platform for live interaction between instructors and students, and among students themselves. Complementing our Slack channel, these live sessions offer an additional avenue for asking questions and engaging in meaningful discussions.","body":"In our increasingly online world, personal engagement remains a crucial element of effective learning. \nAt Bondar Academy, we address this by hosting live Zoom sessions. These sessions provide a platform for live interaction between instructors and students and among students themselves. Complementing our Slack channel, these live sessions offer an additional avenue for asking questions and engaging in meaningful discussions.","tagList":["Zoom","Live Sessions"],"createdAt":"2024-01-27T21:39:50.587Z","updatedAt":"2024-01-27T21:39:50.587Z","favorited":false,"favoritesCount":60,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1","title":"Utilizing Slack for Continuous Engagement: Connect with Instructors, Share Insights, and Collaborate","description":"Slack stands out as a widely-used messaging and collaboration platform, celebrated for its convenience and versatility. It enables simultaneous participation in multiple conversations, supports comments and emoji reactions, and allows users to share screenshots, videos, and code snippets. Its functionality extends to making calls in huddle sessions. Given these robust features, Bondar Academy has chosen Slack as our primary communication platform, facilitating seamless interaction and collaboration.","body":"As a new member of Bondar Academy, one of your initial steps should be registering for the Bondar Academy Slack Workspace. Upon registration at Bondar Academy, you'll receive a welcome email containing the URL to join. This Workspace serves as a central hub for communication with instructors and fellow students. Whether you have a question, need to share code, or want to upload screenshots, Slack makes it easy and efficient. Moreover, its compatibility with both desktop and mobile devices, by downloading and installing the app, ensures you can stay connected with your instructors and the community wherever you go.","tagList":["Slack","Community","Collaboration"],"createdAt":"2024-01-27T21:38:27.992Z","updatedAt":"2024-01-27T21:38:27.992Z","favorited":false,"favoritesCount":59,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Stay-Ahead-with-Bondar-Academy:-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1","title":"Stay Ahead with Bondar Academy: Subscribe to Our YouTube channel for Latest Tech and Education Updates","description":"Who doesn't appreciate high-quality free resources? YouTube serves as an ideal platform for sharing the latest news, updates, and a wealth of tips and tricks in test automation and technology. Keep abreast of these invaluable insights by subscribing to the @bondaracademy YouTube channel.","body":"Who doesn't appreciate high-quality free resources? \n\nYouTube serves as an ideal platform for sharing the latest news, updates, and a wealth of tips and tricks in test automation and technology. \n\nKeep abreast of these invaluable insights by subscribing to our YouTube channel: https://www.youtube.com/@bondaracademy","tagList":["YouTube"],"createdAt":"2024-01-27T21:36:32.360Z","updatedAt":"2024-01-27T21:36:32.360Z","favorited":false,"favoritesCount":57,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Explore-the-Latest-in-Learning:-Bondar-Academy-Blog's-Educational-Insights-from-Our-Experts-1","title":"Explore the Latest in Learning: Bondar Academy Blog's Educational Insights from Our Experts","description":"Discover a treasure trove of knowledge on the Bondar Academy blog. Here, we share an array of tips, techniques, and valuable educational materials, all designed to keep you abreast of the latest technological trends and best practices. For easy access and continual learning, consider bookmarking our blog in your browser.","body":"On the Bondar Academy blog, we consistently provide insightful and pertinent updates on the latest in technology, test automation, and industry best practices. For your convenience, we recommend adding our blog to your browser's bookmarks. Our commitment to keeping you informed is reflected in our weekly posts, each focusing on a significant topic of the week.\n\nWe value your input and invite you to contribute to our ever-evolving content. If you have any suggestions or specific topics you'd like us to explore, please feel free to share your ideas in the Bondar Academy Slack workspace. \n\nDiscover our blog here: https://www.bondaracademy.com/blog\n","tagList":["Blog"],"createdAt":"2024-01-27T21:34:04.531Z","updatedAt":"2024-01-27T21:34:04.531Z","favorited":false,"favoritesCount":59,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Take-the-Next-Step:-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1","title":"Take the Next Step: Join Bondar Academy Today and Enroll into the class","description":"Are you prepared to transform your educational journey? Begin by signing up at Bondar Academy, then register for our Slack Workspace to start exploring. We offer a range of classes, with some being completely free and others featuring free previews of the initial sections. This allows you to experience our content and teaching approach firsthand, helping you make an informed decision before enrolling in a class.","body":"Are you prepared to transform your educational journey? \n\nBegin by signing up at Bondar Academy, then register for our Slack Workspace to start exploring. We offer a range of classes, with some being completely free and others featuring free previews of the initial sections. This allows you to experience our content and teaching approach firsthand, helping you make an informed decision before enrolling in a class.\n\nClick here to enroll: https://www.bondaracademy.com","tagList":["Enroll","Start for Free"],"createdAt":"2024-01-27T21:32:21.056Z","updatedAt":"2024-01-27T21:32:21.056Z","favorited":false,"favoritesCount":62,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}}],"articlesCount":10}
 
+09:36:53.612 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+09:36:56.653 [main] INFO  com.intuit.karate - karate.env system property was: null 
+09:36:57.469 [main] DEBUG com.intuit.karate - request:
+1 > POST https://conduit-api.bondaracademy.com/api/users/login
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 63
+1 > Host: conduit-api.bondaracademy.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/21.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"user":{"email":"kboxinside@gmail.com","password":"Zebra09$"}}
+
+09:36:58.827 [main] DEBUG com.intuit.karate - response time in milliseconds: 1351
+1 < 200
+1 < x-powered-by: Express
+1 < vary: Origin
+1 < content-type: application/json; charset=utf-8
+1 < etag: W/"137-bm1fjJbkhPhPqlKXUFwr/X3Ck5c"
+1 < x-cloud-trace-context: c51751d7084ecf8d6142bb9791b69720;o=1
+1 < date: Tue, 07 Oct 2025 04:06:58 GMT
+1 < server: Google Frontend
+1 < Content-Length: 311
+{"user":{"email":"kboxinside@gmail.com","username":"logesh","bio":null,"image":"https://conduit-api.bondaracademy.com/images/smiley-cyrus.jpeg","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjozMjc1N30sImlhdCI6MTc1OTgxMDAxOCwiZXhwIjoxNzY0OTk0MDE4fQ.7on2ZrOx6gFH9jI1vcQgkpvPwwedzm476UDAh2lGirs"}}
+
+09:36:58.939 [main] DEBUG com.intuit.karate - request:
+1 > POST https://conduit-api.bondaracademy.com/api/articles
+1 > Authorization: Token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjozMjc1N30sImlhdCI6MTc1OTgxMDAxOCwiZXhwIjoxNzY0OTk0MDE4fQ.7on2ZrOx6gFH9jI1vcQgkpvPwwedzm476UDAh2lGirs
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 149
+1 > Host: conduit-api.bondaracademy.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/21.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"article":{"title":"Article 33c6a1f3-a0f1-445b-95d8-692ed3cadb26","description":"API Test using karate","body":"Testing the article ","tagList":[]}}
+
+09:36:59.450 [main] DEBUG com.intuit.karate - response time in milliseconds: 507
+1 < 201
+1 < x-powered-by: Express
+1 < vary: Origin
+1 < content-type: application/json; charset=utf-8
+1 < etag: W/"1c9-z9ow1ZNAvU+K8eficXl0QwXwgHI"
+1 < x-cloud-trace-context: db64f8e5b68a199d10bbb3176f8d553b
+1 < date: Tue, 07 Oct 2025 04:06:59 GMT
+1 < server: Google Frontend
+1 < Content-Length: 457
+{"article":{"slug":"Article-33c6a1f3-a0f1-445b-95d8-692ed3cadb26-32757","title":"Article 33c6a1f3-a0f1-445b-95d8-692ed3cadb26","description":"API Test using karate","body":"Testing the article ","tagList":[],"createdAt":"2025-10-07T04:06:58.965Z","updatedAt":"2025-10-07T04:06:58.965Z","favorited":false,"favoritesCount":0,"author":{"username":"logesh","bio":null,"image":"https://conduit-api.bondaracademy.com/images/smiley-cyrus.jpeg","following":false}}}
+
+09:36:59.520 [main] INFO  com.intuit.karate - karate.env system property was: null 
+09:36:59.539 [main] DEBUG com.intuit.karate - request:
+1 > POST https://conduit-api.bondaracademy.com/api/users/login
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 63
+1 > Host: conduit-api.bondaracademy.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/21.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"user":{"email":"kboxinside@gmail.com","password":"Zebra09$"}}
+
+09:37:00.014 [main] DEBUG com.intuit.karate - response time in milliseconds: 474
+1 < 200
+1 < x-powered-by: Express
+1 < vary: Origin
+1 < content-type: application/json; charset=utf-8
+1 < etag: W/"137-RnBgCyQuFfdB8m/xFixDMpn72Fk"
+1 < x-cloud-trace-context: e49891e66ee51a92b59d69acf78c0ade
+1 < date: Tue, 07 Oct 2025 04:06:59 GMT
+1 < server: Google Frontend
+1 < Content-Length: 311
+{"user":{"email":"kboxinside@gmail.com","username":"logesh","bio":null,"image":"https://conduit-api.bondaracademy.com/images/smiley-cyrus.jpeg","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjozMjc1N30sImlhdCI6MTc1OTgxMDAxOSwiZXhwIjoxNzY0OTk0MDE5fQ.h9-OcRuYmDbON7e-AhYQEKcD2EuF-_YpVyHXDYPR5iU"}}
+
+09:37:00.027 [main] DEBUG com.intuit.karate - request:
+1 > POST https://conduit-api.bondaracademy.com/api/articles
+1 > Authorization: Token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjozMjc1N30sImlhdCI6MTc1OTgxMDAxOSwiZXhwIjoxNzY0OTk0MDE5fQ.h9-OcRuYmDbON7e-AhYQEKcD2EuF-_YpVyHXDYPR5iU
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 165
+1 > Host: conduit-api.bondaracademy.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/21.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"article":{"title":"Article 406521af-f48d-4bcb-adfb-20ca6bec5be9","description":"Delete Method - API Test using karate","body":"Testing the article ","tagList":[]}}
+
+09:37:00.481 [main] DEBUG com.intuit.karate - response time in milliseconds: 454
+1 < 201
+1 < x-powered-by: Express
+1 < vary: Origin
+1 < content-type: application/json; charset=utf-8
+1 < etag: W/"1d9-FHpo9a6qPWnqi6mr4M2gHEbKtJo"
+1 < x-cloud-trace-context: 1d254483520ddc4b58d292f37a3be5f5
+1 < date: Tue, 07 Oct 2025 04:07:00 GMT
+1 < server: Google Frontend
+1 < Content-Length: 473
+{"article":{"slug":"Article-406521af-f48d-4bcb-adfb-20ca6bec5be9-32757","title":"Article 406521af-f48d-4bcb-adfb-20ca6bec5be9","description":"Delete Method - API Test using karate","body":"Testing the article ","tagList":[],"createdAt":"2025-10-07T04:07:00.039Z","updatedAt":"2025-10-07T04:07:00.039Z","favorited":false,"favoritesCount":0,"author":{"username":"logesh","bio":null,"image":"https://conduit-api.bondaracademy.com/images/smiley-cyrus.jpeg","following":false}}}
+
+09:37:00.516 [main] DEBUG com.intuit.karate - request:
+2 > GET https://conduit-api.bondaracademy.com/api/articles/Article-406521af-f48d-4bcb-adfb-20ca6bec5be9-32757
+2 > Host: conduit-api.bondaracademy.com
+2 > Connection: Keep-Alive
+2 > User-Agent: Apache-HttpClient/4.5.14 (Java/21.0.8)
+2 > Accept-Encoding: gzip,deflate
+
+
+09:37:00.965 [main] DEBUG com.intuit.karate - response time in milliseconds: 446
+2 < 200
+2 < x-powered-by: Express
+2 < vary: Origin
+2 < content-type: application/json; charset=utf-8
+2 < etag: W/"1d9-FHpo9a6qPWnqi6mr4M2gHEbKtJo"
+2 < x-cloud-trace-context: 818f29a6b3a325806a9a30d3007dc703
+2 < date: Tue, 07 Oct 2025 04:07:00 GMT
+2 < server: Google Frontend
+2 < Content-Length: 473
+{"article":{"slug":"Article-406521af-f48d-4bcb-adfb-20ca6bec5be9-32757","title":"Article 406521af-f48d-4bcb-adfb-20ca6bec5be9","description":"Delete Method - API Test using karate","body":"Testing the article ","tagList":[],"createdAt":"2025-10-07T04:07:00.039Z","updatedAt":"2025-10-07T04:07:00.039Z","favorited":false,"favoritesCount":0,"author":{"username":"logesh","bio":null,"image":"https://conduit-api.bondaracademy.com/images/smiley-cyrus.jpeg","following":false}}}
+
+09:37:00.971 [main] DEBUG com.intuit.karate - request:
+3 > DELETE https://conduit-api.bondaracademy.com/api/articles/Article-406521af-f48d-4bcb-adfb-20ca6bec5be9-32757
+3 > Authorization: Token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjozMjc1N30sImlhdCI6MTc1OTgxMDAxOSwiZXhwIjoxNzY0OTk0MDE5fQ.h9-OcRuYmDbON7e-AhYQEKcD2EuF-_YpVyHXDYPR5iU
+3 > Host: conduit-api.bondaracademy.com
+3 > Connection: Keep-Alive
+3 > User-Agent: Apache-HttpClient/4.5.14 (Java/21.0.8)
+3 > Accept-Encoding: gzip,deflate
+
+
+09:37:01.378 [main] DEBUG com.intuit.karate - response time in milliseconds: 406
+3 < 204
+3 < x-powered-by: Express
+3 < vary: Origin
+3 < etag: W/"a-bAsFyilMr4Ra1hIU5PyoyFRunpI"
+3 < x-cloud-trace-context: 3d453615d0503244481e8cc5d8775d37
+3 < date: Tue, 07 Oct 2025 04:07:01 GMT
+3 < content-type: text/html
+3 < server: Google Frontend
+
+
+09:37:01.383 [main] DEBUG com.intuit.karate - request:
+4 > GET https://conduit-api.bondaracademy.com/api/articles/Article-406521af-f48d-4bcb-adfb-20ca6bec5be9-32757
+4 > Host: conduit-api.bondaracademy.com
+4 > Connection: Keep-Alive
+4 > User-Agent: Apache-HttpClient/4.5.14 (Java/21.0.8)
+4 > Accept-Encoding: gzip,deflate
+
+
+09:37:01.717 [main] DEBUG com.intuit.karate - response time in milliseconds: 333
+4 < 404
+4 < x-powered-by: Express
+4 < vary: Origin
+4 < content-type: application/json; charset=utf-8
+4 < etag: W/"24-WwkKlnN0sbKzUZbyZqRl66DQxQA"
+4 < x-cloud-trace-context: 177097c09fa8fa13fce9fe22a43949a2
+4 < date: Tue, 07 Oct 2025 04:07:01 GMT
+4 < server: Google Frontend
+4 < Content-Length: 36
+{"errors":{"article":["not found"]}}
+
+09:37:03.726 [main] INFO  com.intuit.karate - karate.env system property was: null 
+09:37:03.731 [main] DEBUG com.intuit.karate - request:
+1 > GET https://conduit-api.bondaracademy.com/api/tags
+1 > Host: conduit-api.bondaracademy.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/21.0.8)
+1 > Accept-Encoding: gzip,deflate
+
+
+09:37:04.820 [main] DEBUG com.intuit.karate - response time in milliseconds: 1087
+1 < 200
+1 < x-powered-by: Express
+1 < vary: Origin
+1 < content-type: application/json; charset=utf-8
+1 < etag: W/"75-9AUSFJ1sw9CSS0V6ZOvnxrgr1uU"
+1 < x-cloud-trace-context: 7a5d63ec40208679d4f127e03aafaa19
+1 < date: Tue, 07 Oct 2025 04:07:04 GMT
+1 < server: Google Frontend
+1 < Content-Length: 117
+{"tags":["Test","Git","YouTube","Zoom","Bondar Academy","Blog","GitHub","Value-Focused","Live Sessions","QA Skills"]}
+
+09:37:04.839 [main] INFO  com.intuit.karate - karate.env system property was: null 
+09:37:04.850 [main] DEBUG com.intuit.karate - request:
+1 > GET https://conduit-api.bondaracademy.com/api/articles?limit=10&offset=0
+1 > Host: conduit-api.bondaracademy.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/21.0.8)
+1 > Accept-Encoding: gzip,deflate
+
+
+09:37:05.817 [main] DEBUG com.intuit.karate - response time in milliseconds: 966
+1 < 200
+1 < x-powered-by: Express
+1 < vary: Origin
+1 < content-type: application/json; charset=utf-8
+1 < etag: W/"43a6-onRlJ084PD+/PGUCnDkWM4M6Bis"
+1 < x-cloud-trace-context: 2f31a61873d09bbc29876ef1f0bfcc52
+1 < date: Tue, 07 Oct 2025 04:07:05 GMT
+1 < server: Google Frontend
+1 < Content-Length: 17318
+{"articles":[{"slug":"Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1","title":"Discover Bondar Academy: Your Gateway to Efficient Learning","description":"Discover Bondar Academy's unique place in the educational landscape, where value-focused and efficient learning approaches converge. Our goal is to rapidly enhance your professional technical skills, boosting your market competitiveness and paving the way for higher-paying job opportunities. The speed of your progress is in your hands – you set the pace, and we provide the solutions and support to help you achieve your desired outcomes.","body":"Bondar Academy is a leading platform for efficient education, designed to boost your technical skills and advance your career in Quality Assurance (QA). Our program features a balanced mix of pre-recorded lectures and live sessions, allowing each student to study at their own pace and at a time that suits them. \n\nOur instructors are readily available on our Slack Workspace for support. Whether it's a quick question or a more complex issue requiring a Zoom call or Slack Huddle for screen sharing and live discussion, we're here to assist. Additionally, each class comes with a comprehensive question bank for self-assessment. Following each lecture, you have the opportunity to validate your understanding and readiness to progress to the next topic. You set the pace, and we provide the solutions to ensure you achieve your desired outcomes.\n\nSignUp today: https://www.bondaracademy.com","tagList":["qa career","Bondar Academy","QA Skills","Value-Focused"],"createdAt":"2024-01-27T21:52:32.682Z","updatedAt":"2024-01-27T21:52:32.682Z","favorited":false,"favoritesCount":895,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"The-value-of-pre-recorded-video-classes.-The-most-efficient-approach-to-tranfer-the-knowledge-1","title":"The value of pre-recorded video classes. The most efficient approach to tranfer the knowledge","description":"As educational practices evolve, video tutorials have emerged as the most efficient method for imparting theoretical knowledge. At Bondar Academy, we prioritize expertly structured and crafted video tutorials, ensuring you learn quickly and effectively and advance your skills.","body":"At Bondar Academy, we prioritize the value of your time and the efficiency of your education, distinguishing our approach from traditional colleges and live boot camps. Forget long, tedious live lectures on a fixed schedule. With us, you learn at your convenience and pace through optimized, structured video lectures. \n\nWe understand your goal is rapid knowledge acquisition. Our pre-recorded and well-organized lectures are designed precisely for this, ensuring no slowdowns from group dynamics or unrelated instructor anecdotes. \n\nDive straight into the subject matter, learn efficiently, and if questions arise, our immediate support on the Slack Workspace is there to streamline your learning process and swiftly remove any roadblocks.","tagList":["Bondar Academy","Video Lectures","Tutorials"],"createdAt":"2024-01-27T21:50:38.825Z","updatedAt":"2024-01-27T21:50:38.825Z","favorited":false,"favoritesCount":386,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Mastering-Knowledge-with-Self-Assessments:-Identifying-and-Bridging-Learning-Gaps-in-Education-1","title":"Mastering Knowledge with Self-Assessments: Identifying and Bridging Learning Gaps in Education","description":"Self-assessment is an essential tool for gauging your understanding of lecture material. It answers critical questions: Have you grasped everything correctly? Is there anything you've missed? Are you prepared for the next lesson? These assessments ensure that you build a solid foundation of knowledge, confidently and efficiently paving the way for swift progress and effective learning outcomes.","body":"Traditional educational institutions, such as colleges and universities, commonly use tests and assessments to measure knowledge. This approach is effective for gauging student performance, but it's not without drawbacks. In these settings, assessments after every lecture aren't feasible due to the time required for teachers to evaluate them. This often leads to students having a false sense of understanding, believing they've comprehended all aspects of a lecture when, in reality, small but crucial details might be missed. These 'knowledge gaps' can accumulate, making more complex topics difficult to grasp later on.\n\nAt Bondar Academy, we address this challenge by implementing self-assessments after every lecture. These are designed to cover key questions that ensure a thorough understanding of the material, essential for comfort and success in future lectures. The number of questions varies, ranging from 3-4 to 15-20, depending on the lecture's significance and the volume of critical information. With these self-assessments, students receive immediate feedback, helping them determine if they've fully understood the lecture or if they need to revisit certain parts or seek assistance from our instructors in the Slack Workspace.","tagList":["Self-Assessment","Test","Exam"],"createdAt":"2024-01-27T21:48:36.340Z","updatedAt":"2024-01-27T21:48:36.340Z","favorited":false,"favoritesCount":192,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Practical-Implementation-of-Skills:-Homework-Assignments-with-Instructor-Supervision-1","title":"Practical Implementation of Skills: Homework Assignments with Instructor Supervision","description":"Knowledge or skills not reinforced through practical exercises can quickly fade, often faster than anticipated. Homework, particularly in tasks like writing your own code, is crucial for honing these skills and cementing your understanding. At Bondar Academy, we ensure this vital step by assigning homework, rigorously evaluating the outcomes, and providing valuable feedback to guide your learning journey.","body":"Homework assignments are a fundamental component of the educational methodology at Bondar Academy, especially in technical education where learning a new programming language or framework is involved. The key to mastering these skills lies in writing code; the more you write, the better you become. However, merely replicating code seen in lectures leads to minimal learning. Often, this approach leaves students unclear about why their code works the way it does, as they focus on copying rather than understanding.\n\nA homework assignment at Bondar Academy starts with a blank page, challenging students to apply all their knowledge to write the first line of code. This process is more demanding than it appears. As you write each line, understanding and reasoning grow, making your code meaningful and comprehensible. You learn to write code that makes sense to you, enhancing your understanding.\n\nIn completing these assignments, you engage the 'thinking' part of your brain, transforming theoretical knowledge into practical skills. Recognizing the crucial role of homework in learning, our instructors at Bondar Academy are always available to assist with any challenges. Just reach out on Slack, and you'll receive the guidance and support needed for successful completion. At Bondar Academy, we fully understand the importance of homework assignments for the best outcome, so our instructors are always here to assist if you have any difficulties with completing them. Just ask in Slack and you'll be guided and assisted.","tagList":["Homework","Assignments","Practice","Coding"],"createdAt":"2024-01-27T21:46:09.512Z","updatedAt":"2024-01-27T21:46:09.512Z","favorited":false,"favoritesCount":78,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1","title":"Embracing Daily Git Routines: Real Code Reviews on GitHub for Effective Coding Practice.","description":"Learning to code is just one part of a larger skill set; effectively managing and organizing code is equally crucial. At Bondar Academy, we integrate Git and platforms like GitHub into the core learning cycle. With us, using Git becomes a regular routine, where organizing code in branches, storing it in remote repositories, and collaborating with others through strategies like branching, merging, pull requests, and code reviews are standard practice.","body":"At Bondar Academy, mastering Git and GitHub is a fundamental step before delving into frameworks or programming languages. Effective code management, organization, and storage are crucial skills, and Git is the premier tool for this purpose. However, many learners initially find Git challenging due to its complexity and non-intuitive nature. To address this, our instructors have developed structured lectures on Git and GitHub, ensuring an efficient and thorough understanding of these essential tools. Git lessons are a mandatory prerequisite in every class. For a glimpse into our teaching approach, visit our YouTube channel: https://www.youtube.com/@BondarAcademy/playlists.\n\nIn our courses, all homework assignments are reviewed using GitHub pull requests, mirroring the workflow in real-world software development environments. Students submit their code to their working branch for review. Our instructors then provide feedback, suggesting modifications or adjustments for pull request approval. This iterative process is repeated throughout the course, establishing Git usage as a natural and routine part of your coding practice.","tagList":["YouTube","Git","GitHub"],"createdAt":"2024-01-27T21:42:31.491Z","updatedAt":"2024-01-27T21:42:31.491Z","favorited":false,"favoritesCount":86,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1","title":"Engaging in Live Zoom Sessions: Interact with Instructors and Peers, Ask Questions in Real-Time","description":"In our increasingly online world, personal engagement remains a crucial element of effective learning. At Bondar Academy, we address this by hosting live Zoom sessions. These sessions provide a platform for live interaction between instructors and students, and among students themselves. Complementing our Slack channel, these live sessions offer an additional avenue for asking questions and engaging in meaningful discussions.","body":"In our increasingly online world, personal engagement remains a crucial element of effective learning. \nAt Bondar Academy, we address this by hosting live Zoom sessions. These sessions provide a platform for live interaction between instructors and students and among students themselves. Complementing our Slack channel, these live sessions offer an additional avenue for asking questions and engaging in meaningful discussions.","tagList":["Zoom","Live Sessions"],"createdAt":"2024-01-27T21:39:50.587Z","updatedAt":"2024-01-27T21:39:50.587Z","favorited":false,"favoritesCount":60,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1","title":"Utilizing Slack for Continuous Engagement: Connect with Instructors, Share Insights, and Collaborate","description":"Slack stands out as a widely-used messaging and collaboration platform, celebrated for its convenience and versatility. It enables simultaneous participation in multiple conversations, supports comments and emoji reactions, and allows users to share screenshots, videos, and code snippets. Its functionality extends to making calls in huddle sessions. Given these robust features, Bondar Academy has chosen Slack as our primary communication platform, facilitating seamless interaction and collaboration.","body":"As a new member of Bondar Academy, one of your initial steps should be registering for the Bondar Academy Slack Workspace. Upon registration at Bondar Academy, you'll receive a welcome email containing the URL to join. This Workspace serves as a central hub for communication with instructors and fellow students. Whether you have a question, need to share code, or want to upload screenshots, Slack makes it easy and efficient. Moreover, its compatibility with both desktop and mobile devices, by downloading and installing the app, ensures you can stay connected with your instructors and the community wherever you go.","tagList":["Slack","Community","Collaboration"],"createdAt":"2024-01-27T21:38:27.992Z","updatedAt":"2024-01-27T21:38:27.992Z","favorited":false,"favoritesCount":59,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Stay-Ahead-with-Bondar-Academy:-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1","title":"Stay Ahead with Bondar Academy: Subscribe to Our YouTube channel for Latest Tech and Education Updates","description":"Who doesn't appreciate high-quality free resources? YouTube serves as an ideal platform for sharing the latest news, updates, and a wealth of tips and tricks in test automation and technology. Keep abreast of these invaluable insights by subscribing to the @bondaracademy YouTube channel.","body":"Who doesn't appreciate high-quality free resources? \n\nYouTube serves as an ideal platform for sharing the latest news, updates, and a wealth of tips and tricks in test automation and technology. \n\nKeep abreast of these invaluable insights by subscribing to our YouTube channel: https://www.youtube.com/@bondaracademy","tagList":["YouTube"],"createdAt":"2024-01-27T21:36:32.360Z","updatedAt":"2024-01-27T21:36:32.360Z","favorited":false,"favoritesCount":57,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Explore-the-Latest-in-Learning:-Bondar-Academy-Blog's-Educational-Insights-from-Our-Experts-1","title":"Explore the Latest in Learning: Bondar Academy Blog's Educational Insights from Our Experts","description":"Discover a treasure trove of knowledge on the Bondar Academy blog. Here, we share an array of tips, techniques, and valuable educational materials, all designed to keep you abreast of the latest technological trends and best practices. For easy access and continual learning, consider bookmarking our blog in your browser.","body":"On the Bondar Academy blog, we consistently provide insightful and pertinent updates on the latest in technology, test automation, and industry best practices. For your convenience, we recommend adding our blog to your browser's bookmarks. Our commitment to keeping you informed is reflected in our weekly posts, each focusing on a significant topic of the week.\n\nWe value your input and invite you to contribute to our ever-evolving content. If you have any suggestions or specific topics you'd like us to explore, please feel free to share your ideas in the Bondar Academy Slack workspace. \n\nDiscover our blog here: https://www.bondaracademy.com/blog\n","tagList":["Blog"],"createdAt":"2024-01-27T21:34:04.531Z","updatedAt":"2024-01-27T21:34:04.531Z","favorited":false,"favoritesCount":59,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Take-the-Next-Step:-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1","title":"Take the Next Step: Join Bondar Academy Today and Enroll into the class","description":"Are you prepared to transform your educational journey? Begin by signing up at Bondar Academy, then register for our Slack Workspace to start exploring. We offer a range of classes, with some being completely free and others featuring free previews of the initial sections. This allows you to experience our content and teaching approach firsthand, helping you make an informed decision before enrolling in a class.","body":"Are you prepared to transform your educational journey? \n\nBegin by signing up at Bondar Academy, then register for our Slack Workspace to start exploring. We offer a range of classes, with some being completely free and others featuring free previews of the initial sections. This allows you to experience our content and teaching approach firsthand, helping you make an informed decision before enrolling in a class.\n\nClick here to enroll: https://www.bondaracademy.com","tagList":["Enroll","Start for Free"],"createdAt":"2024-01-27T21:32:21.056Z","updatedAt":"2024-01-27T21:32:21.056Z","favorited":false,"favoritesCount":62,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}}],"articlesCount":10}
+
+09:37:05.972 [main] INFO  com.intuit.karate - karate.env system property was: null 
+09:37:06.509 [main] ERROR com.intuit.karate - classpath:conduitApp/feature/SignUp.feature:11
+And request
+"""
+"
+    {
+      "user": {
+        "username": "#(randomUsername)",
+        "email": "#(randomEmail)",
+        "password": "Test@1234"
+      }
+    }
+"""
+js failed:
+>>>>
+01: "
+02:     {
+03:       "user": {
+04:         "username": "#(randomUsername)",
+05:         "email": "#(randomEmail)",
+06:         "password": "Test@1234"
+07:       }
+08:     }
+<<<<
+org.graalvm.polyglot.PolyglotException: SyntaxError: Unnamed:1:1 Missing close quote
+"
+ ^
+
+- org.graalvm.polyglot.Context.eval(Context.java:428)
+- com.intuit.karate.graal.JsEngine.evalForValue(JsEngine.java:169)
+- com.intuit.karate.graal.JsEngine.eval(JsEngine.java:165)
+- com.intuit.karate.core.ScenarioEngine.evalJs(ScenarioEngine.java:1252)
+- com.intuit.karate.core.ScenarioEngine.evalKarateExpression(ScenarioEngine.java:2204)
+- com.intuit.karate.core.ScenarioEngine.evalKarateExpression(ScenarioEngine.java:2123)
+- com.intuit.karate.core.ScenarioEngine.request(ScenarioEngine.java:529)
+
+classpath:conduitApp/feature/SignUp.feature:11
+10:30:19.321 [main] DEBUG com.intuit.karate.Suite - [config] classpath:karate-config.js
+10:30:21.005 [main] INFO  com.intuit.karate - karate.env system property was: null 
+10:30:21.445 [main] DEBUG com.intuit.karate - request:
+1 > POST https://conduit-api.bondaracademy.com/api/users/login
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 63
+1 > Host: conduit-api.bondaracademy.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/21.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"user":{"email":"kboxinside@gmail.com","password":"Zebra09$"}}
+
+10:30:22.346 [main] DEBUG com.intuit.karate - response time in milliseconds: 897
+1 < 200
+1 < x-powered-by: Express
+1 < vary: Origin
+1 < content-type: application/json; charset=utf-8
+1 < etag: W/"137-UZbeYCEa+rfZy5FU34UKpqK5eq8"
+1 < x-cloud-trace-context: 269fe2b67ec43c5ce71eeb90e8bd10d2;o=1
+1 < date: Tue, 07 Oct 2025 05:00:22 GMT
+1 < server: Google Frontend
+1 < Content-Length: 311
+{"user":{"email":"kboxinside@gmail.com","username":"logesh","bio":null,"image":"https://conduit-api.bondaracademy.com/images/smiley-cyrus.jpeg","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjozMjc1N30sImlhdCI6MTc1OTgxMzIyMiwiZXhwIjoxNzY0OTk3MjIyfQ.2ENdPeBJ3gzXNlXalDBmDWLXEsOVdbdq3CEGp0VoLnw"}}
+
+10:30:22.421 [main] DEBUG com.intuit.karate - request:
+1 > POST https://conduit-api.bondaracademy.com/api/articles
+1 > Authorization: Token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjozMjc1N30sImlhdCI6MTc1OTgxMzIyMiwiZXhwIjoxNzY0OTk3MjIyfQ.2ENdPeBJ3gzXNlXalDBmDWLXEsOVdbdq3CEGp0VoLnw
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 149
+1 > Host: conduit-api.bondaracademy.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/21.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"article":{"title":"Article fe6f8076-18bb-4d77-9900-9b132eeb910c","description":"API Test using karate","body":"Testing the article ","tagList":[]}}
+
+10:30:22.929 [main] DEBUG com.intuit.karate - response time in milliseconds: 507
+1 < 201
+1 < x-powered-by: Express
+1 < vary: Origin
+1 < content-type: application/json; charset=utf-8
+1 < etag: W/"1c9-xVB61fgxsr3SrF/2I8ALbEo8mbY"
+1 < x-cloud-trace-context: 1a47c57e17b1ce3a5fabae28a295a091
+1 < date: Tue, 07 Oct 2025 05:00:22 GMT
+1 < server: Google Frontend
+1 < Content-Length: 457
+{"article":{"slug":"Article-fe6f8076-18bb-4d77-9900-9b132eeb910c-32757","title":"Article fe6f8076-18bb-4d77-9900-9b132eeb910c","description":"API Test using karate","body":"Testing the article ","tagList":[],"createdAt":"2025-10-07T05:00:22.424Z","updatedAt":"2025-10-07T05:00:22.424Z","favorited":false,"favoritesCount":0,"author":{"username":"logesh","bio":null,"image":"https://conduit-api.bondaracademy.com/images/smiley-cyrus.jpeg","following":false}}}
+
+10:30:22.966 [main] INFO  com.intuit.karate - karate.env system property was: null 
+10:30:22.974 [main] DEBUG com.intuit.karate - request:
+1 > POST https://conduit-api.bondaracademy.com/api/users/login
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 63
+1 > Host: conduit-api.bondaracademy.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/21.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"user":{"email":"kboxinside@gmail.com","password":"Zebra09$"}}
+
+10:30:23.398 [main] DEBUG com.intuit.karate - response time in milliseconds: 424
+1 < 200
+1 < x-powered-by: Express
+1 < vary: Origin
+1 < content-type: application/json; charset=utf-8
+1 < etag: W/"137-5Ikh+Cq5YmcroppxaSDP0N1Sne8"
+1 < x-cloud-trace-context: 89d9b132df0a11046d92859d12dbbe71
+1 < date: Tue, 07 Oct 2025 05:00:23 GMT
+1 < server: Google Frontend
+1 < Content-Length: 311
+{"user":{"email":"kboxinside@gmail.com","username":"logesh","bio":null,"image":"https://conduit-api.bondaracademy.com/images/smiley-cyrus.jpeg","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjozMjc1N30sImlhdCI6MTc1OTgxMzIyMywiZXhwIjoxNzY0OTk3MjIzfQ.achHa2EE77Asc8ZBEwms3dk6bVGPV639aygjJK5DbBM"}}
+
+10:30:23.404 [main] DEBUG com.intuit.karate - request:
+1 > POST https://conduit-api.bondaracademy.com/api/articles
+1 > Authorization: Token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjozMjc1N30sImlhdCI6MTc1OTgxMzIyMywiZXhwIjoxNzY0OTk3MjIzfQ.achHa2EE77Asc8ZBEwms3dk6bVGPV639aygjJK5DbBM
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 165
+1 > Host: conduit-api.bondaracademy.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/21.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"article":{"title":"Article d9be7ad5-110a-4b37-906f-13fec6f8244d","description":"Delete Method - API Test using karate","body":"Testing the article ","tagList":[]}}
+
+10:30:23.865 [main] DEBUG com.intuit.karate - response time in milliseconds: 461
+1 < 201
+1 < x-powered-by: Express
+1 < vary: Origin
+1 < content-type: application/json; charset=utf-8
+1 < etag: W/"1d9-gvMOKSIATYNzpi410j9gsIEPZKM"
+1 < x-cloud-trace-context: 4ba6fde35971b9b1078ad7ce106b8bf5
+1 < date: Tue, 07 Oct 2025 05:00:23 GMT
+1 < server: Google Frontend
+1 < Content-Length: 473
+{"article":{"slug":"Article-d9be7ad5-110a-4b37-906f-13fec6f8244d-32757","title":"Article d9be7ad5-110a-4b37-906f-13fec6f8244d","description":"Delete Method - API Test using karate","body":"Testing the article ","tagList":[],"createdAt":"2025-10-07T05:00:23.404Z","updatedAt":"2025-10-07T05:00:23.404Z","favorited":false,"favoritesCount":0,"author":{"username":"logesh","bio":null,"image":"https://conduit-api.bondaracademy.com/images/smiley-cyrus.jpeg","following":false}}}
+
+10:30:23.884 [main] DEBUG com.intuit.karate - request:
+2 > GET https://conduit-api.bondaracademy.com/api/articles/Article-d9be7ad5-110a-4b37-906f-13fec6f8244d-32757
+2 > Host: conduit-api.bondaracademy.com
+2 > Connection: Keep-Alive
+2 > User-Agent: Apache-HttpClient/4.5.14 (Java/21.0.8)
+2 > Accept-Encoding: gzip,deflate
+
+
+10:30:24.355 [main] DEBUG com.intuit.karate - response time in milliseconds: 469
+2 < 200
+2 < x-powered-by: Express
+2 < vary: Origin
+2 < content-type: application/json; charset=utf-8
+2 < etag: W/"1d9-gvMOKSIATYNzpi410j9gsIEPZKM"
+2 < x-cloud-trace-context: c573403e12c46095ee53d84ceaabada9
+2 < date: Tue, 07 Oct 2025 05:00:24 GMT
+2 < server: Google Frontend
+2 < Content-Length: 473
+{"article":{"slug":"Article-d9be7ad5-110a-4b37-906f-13fec6f8244d-32757","title":"Article d9be7ad5-110a-4b37-906f-13fec6f8244d","description":"Delete Method - API Test using karate","body":"Testing the article ","tagList":[],"createdAt":"2025-10-07T05:00:23.404Z","updatedAt":"2025-10-07T05:00:23.404Z","favorited":false,"favoritesCount":0,"author":{"username":"logesh","bio":null,"image":"https://conduit-api.bondaracademy.com/images/smiley-cyrus.jpeg","following":false}}}
+
+10:30:24.360 [main] DEBUG com.intuit.karate - request:
+3 > DELETE https://conduit-api.bondaracademy.com/api/articles/Article-d9be7ad5-110a-4b37-906f-13fec6f8244d-32757
+3 > Authorization: Token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjozMjc1N30sImlhdCI6MTc1OTgxMzIyMywiZXhwIjoxNzY0OTk3MjIzfQ.achHa2EE77Asc8ZBEwms3dk6bVGPV639aygjJK5DbBM
+3 > Host: conduit-api.bondaracademy.com
+3 > Connection: Keep-Alive
+3 > User-Agent: Apache-HttpClient/4.5.14 (Java/21.0.8)
+3 > Accept-Encoding: gzip,deflate
+
+
+10:30:24.814 [main] DEBUG com.intuit.karate - response time in milliseconds: 452
+3 < 204
+3 < x-powered-by: Express
+3 < vary: Origin
+3 < etag: W/"a-bAsFyilMr4Ra1hIU5PyoyFRunpI"
+3 < x-cloud-trace-context: 61eefe0e5c18fc7bc254fe0aa8aaa2fc
+3 < date: Tue, 07 Oct 2025 05:00:24 GMT
+3 < content-type: text/html
+3 < server: Google Frontend
+
+
+10:30:24.816 [main] DEBUG com.intuit.karate - request:
+4 > GET https://conduit-api.bondaracademy.com/api/articles/Article-d9be7ad5-110a-4b37-906f-13fec6f8244d-32757
+4 > Host: conduit-api.bondaracademy.com
+4 > Connection: Keep-Alive
+4 > User-Agent: Apache-HttpClient/4.5.14 (Java/21.0.8)
+4 > Accept-Encoding: gzip,deflate
+
+
+10:30:25.170 [main] DEBUG com.intuit.karate - response time in milliseconds: 354
+4 < 404
+4 < x-powered-by: Express
+4 < vary: Origin
+4 < content-type: application/json; charset=utf-8
+4 < etag: W/"24-WwkKlnN0sbKzUZbyZqRl66DQxQA"
+4 < x-cloud-trace-context: 232b0e912a7659ffb82ee224a04f502d
+4 < date: Tue, 07 Oct 2025 05:00:24 GMT
+4 < server: Google Frontend
+4 < Content-Length: 36
+{"errors":{"article":["not found"]}}
+
+10:30:25.946 [main] INFO  com.intuit.karate - karate.env system property was: null 
+10:30:25.948 [main] DEBUG com.intuit.karate - request:
+1 > GET https://conduit-api.bondaracademy.com/api/tags
+1 > Host: conduit-api.bondaracademy.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/21.0.8)
+1 > Accept-Encoding: gzip,deflate
+
+
+10:30:26.501 [main] DEBUG com.intuit.karate - response time in milliseconds: 553
+1 < 200
+1 < x-powered-by: Express
+1 < vary: Origin
+1 < content-type: application/json; charset=utf-8
+1 < etag: W/"71-A/54pLEltHjD80OPvj2ItNr/FW8"
+1 < x-cloud-trace-context: 0bb762eb7d521f645b5bde71e8846fc0
+1 < date: Tue, 07 Oct 2025 05:00:26 GMT
+1 < server: Google Frontend
+1 < Content-Length: 113
+{"tags":["Test","Git","YouTube","Zoom","Bondar Academy","Blog","qa career","QA Skills","Value-Focused","GitHub"]}
+
+10:30:26.506 [main] INFO  com.intuit.karate - karate.env system property was: null 
+10:30:26.511 [main] DEBUG com.intuit.karate - request:
+1 > GET https://conduit-api.bondaracademy.com/api/articles?limit=10&offset=0
+1 > Host: conduit-api.bondaracademy.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/21.0.8)
+1 > Accept-Encoding: gzip,deflate
+
+
+10:30:27.271 [main] DEBUG com.intuit.karate - response time in milliseconds: 758
+1 < 200
+1 < x-powered-by: Express
+1 < vary: Origin
+1 < content-type: application/json; charset=utf-8
+1 < etag: W/"43a6-onRlJ084PD+/PGUCnDkWM4M6Bis"
+1 < x-cloud-trace-context: d6382150b435a07073e3fd3e7df22495
+1 < date: Tue, 07 Oct 2025 05:00:26 GMT
+1 < server: Google Frontend
+1 < Content-Length: 17318
+{"articles":[{"slug":"Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1","title":"Discover Bondar Academy: Your Gateway to Efficient Learning","description":"Discover Bondar Academy's unique place in the educational landscape, where value-focused and efficient learning approaches converge. Our goal is to rapidly enhance your professional technical skills, boosting your market competitiveness and paving the way for higher-paying job opportunities. The speed of your progress is in your hands – you set the pace, and we provide the solutions and support to help you achieve your desired outcomes.","body":"Bondar Academy is a leading platform for efficient education, designed to boost your technical skills and advance your career in Quality Assurance (QA). Our program features a balanced mix of pre-recorded lectures and live sessions, allowing each student to study at their own pace and at a time that suits them. \n\nOur instructors are readily available on our Slack Workspace for support. Whether it's a quick question or a more complex issue requiring a Zoom call or Slack Huddle for screen sharing and live discussion, we're here to assist. Additionally, each class comes with a comprehensive question bank for self-assessment. Following each lecture, you have the opportunity to validate your understanding and readiness to progress to the next topic. You set the pace, and we provide the solutions to ensure you achieve your desired outcomes.\n\nSignUp today: https://www.bondaracademy.com","tagList":["qa career","Bondar Academy","QA Skills","Value-Focused"],"createdAt":"2024-01-27T21:52:32.682Z","updatedAt":"2024-01-27T21:52:32.682Z","favorited":false,"favoritesCount":895,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"The-value-of-pre-recorded-video-classes.-The-most-efficient-approach-to-tranfer-the-knowledge-1","title":"The value of pre-recorded video classes. The most efficient approach to tranfer the knowledge","description":"As educational practices evolve, video tutorials have emerged as the most efficient method for imparting theoretical knowledge. At Bondar Academy, we prioritize expertly structured and crafted video tutorials, ensuring you learn quickly and effectively and advance your skills.","body":"At Bondar Academy, we prioritize the value of your time and the efficiency of your education, distinguishing our approach from traditional colleges and live boot camps. Forget long, tedious live lectures on a fixed schedule. With us, you learn at your convenience and pace through optimized, structured video lectures. \n\nWe understand your goal is rapid knowledge acquisition. Our pre-recorded and well-organized lectures are designed precisely for this, ensuring no slowdowns from group dynamics or unrelated instructor anecdotes. \n\nDive straight into the subject matter, learn efficiently, and if questions arise, our immediate support on the Slack Workspace is there to streamline your learning process and swiftly remove any roadblocks.","tagList":["Bondar Academy","Video Lectures","Tutorials"],"createdAt":"2024-01-27T21:50:38.825Z","updatedAt":"2024-01-27T21:50:38.825Z","favorited":false,"favoritesCount":386,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Mastering-Knowledge-with-Self-Assessments:-Identifying-and-Bridging-Learning-Gaps-in-Education-1","title":"Mastering Knowledge with Self-Assessments: Identifying and Bridging Learning Gaps in Education","description":"Self-assessment is an essential tool for gauging your understanding of lecture material. It answers critical questions: Have you grasped everything correctly? Is there anything you've missed? Are you prepared for the next lesson? These assessments ensure that you build a solid foundation of knowledge, confidently and efficiently paving the way for swift progress and effective learning outcomes.","body":"Traditional educational institutions, such as colleges and universities, commonly use tests and assessments to measure knowledge. This approach is effective for gauging student performance, but it's not without drawbacks. In these settings, assessments after every lecture aren't feasible due to the time required for teachers to evaluate them. This often leads to students having a false sense of understanding, believing they've comprehended all aspects of a lecture when, in reality, small but crucial details might be missed. These 'knowledge gaps' can accumulate, making more complex topics difficult to grasp later on.\n\nAt Bondar Academy, we address this challenge by implementing self-assessments after every lecture. These are designed to cover key questions that ensure a thorough understanding of the material, essential for comfort and success in future lectures. The number of questions varies, ranging from 3-4 to 15-20, depending on the lecture's significance and the volume of critical information. With these self-assessments, students receive immediate feedback, helping them determine if they've fully understood the lecture or if they need to revisit certain parts or seek assistance from our instructors in the Slack Workspace.","tagList":["Self-Assessment","Test","Exam"],"createdAt":"2024-01-27T21:48:36.340Z","updatedAt":"2024-01-27T21:48:36.340Z","favorited":false,"favoritesCount":192,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Practical-Implementation-of-Skills:-Homework-Assignments-with-Instructor-Supervision-1","title":"Practical Implementation of Skills: Homework Assignments with Instructor Supervision","description":"Knowledge or skills not reinforced through practical exercises can quickly fade, often faster than anticipated. Homework, particularly in tasks like writing your own code, is crucial for honing these skills and cementing your understanding. At Bondar Academy, we ensure this vital step by assigning homework, rigorously evaluating the outcomes, and providing valuable feedback to guide your learning journey.","body":"Homework assignments are a fundamental component of the educational methodology at Bondar Academy, especially in technical education where learning a new programming language or framework is involved. The key to mastering these skills lies in writing code; the more you write, the better you become. However, merely replicating code seen in lectures leads to minimal learning. Often, this approach leaves students unclear about why their code works the way it does, as they focus on copying rather than understanding.\n\nA homework assignment at Bondar Academy starts with a blank page, challenging students to apply all their knowledge to write the first line of code. This process is more demanding than it appears. As you write each line, understanding and reasoning grow, making your code meaningful and comprehensible. You learn to write code that makes sense to you, enhancing your understanding.\n\nIn completing these assignments, you engage the 'thinking' part of your brain, transforming theoretical knowledge into practical skills. Recognizing the crucial role of homework in learning, our instructors at Bondar Academy are always available to assist with any challenges. Just reach out on Slack, and you'll receive the guidance and support needed for successful completion. At Bondar Academy, we fully understand the importance of homework assignments for the best outcome, so our instructors are always here to assist if you have any difficulties with completing them. Just ask in Slack and you'll be guided and assisted.","tagList":["Homework","Assignments","Practice","Coding"],"createdAt":"2024-01-27T21:46:09.512Z","updatedAt":"2024-01-27T21:46:09.512Z","favorited":false,"favoritesCount":78,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1","title":"Embracing Daily Git Routines: Real Code Reviews on GitHub for Effective Coding Practice.","description":"Learning to code is just one part of a larger skill set; effectively managing and organizing code is equally crucial. At Bondar Academy, we integrate Git and platforms like GitHub into the core learning cycle. With us, using Git becomes a regular routine, where organizing code in branches, storing it in remote repositories, and collaborating with others through strategies like branching, merging, pull requests, and code reviews are standard practice.","body":"At Bondar Academy, mastering Git and GitHub is a fundamental step before delving into frameworks or programming languages. Effective code management, organization, and storage are crucial skills, and Git is the premier tool for this purpose. However, many learners initially find Git challenging due to its complexity and non-intuitive nature. To address this, our instructors have developed structured lectures on Git and GitHub, ensuring an efficient and thorough understanding of these essential tools. Git lessons are a mandatory prerequisite in every class. For a glimpse into our teaching approach, visit our YouTube channel: https://www.youtube.com/@BondarAcademy/playlists.\n\nIn our courses, all homework assignments are reviewed using GitHub pull requests, mirroring the workflow in real-world software development environments. Students submit their code to their working branch for review. Our instructors then provide feedback, suggesting modifications or adjustments for pull request approval. This iterative process is repeated throughout the course, establishing Git usage as a natural and routine part of your coding practice.","tagList":["YouTube","Git","GitHub"],"createdAt":"2024-01-27T21:42:31.491Z","updatedAt":"2024-01-27T21:42:31.491Z","favorited":false,"favoritesCount":86,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1","title":"Engaging in Live Zoom Sessions: Interact with Instructors and Peers, Ask Questions in Real-Time","description":"In our increasingly online world, personal engagement remains a crucial element of effective learning. At Bondar Academy, we address this by hosting live Zoom sessions. These sessions provide a platform for live interaction between instructors and students, and among students themselves. Complementing our Slack channel, these live sessions offer an additional avenue for asking questions and engaging in meaningful discussions.","body":"In our increasingly online world, personal engagement remains a crucial element of effective learning. \nAt Bondar Academy, we address this by hosting live Zoom sessions. These sessions provide a platform for live interaction between instructors and students and among students themselves. Complementing our Slack channel, these live sessions offer an additional avenue for asking questions and engaging in meaningful discussions.","tagList":["Zoom","Live Sessions"],"createdAt":"2024-01-27T21:39:50.587Z","updatedAt":"2024-01-27T21:39:50.587Z","favorited":false,"favoritesCount":60,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1","title":"Utilizing Slack for Continuous Engagement: Connect with Instructors, Share Insights, and Collaborate","description":"Slack stands out as a widely-used messaging and collaboration platform, celebrated for its convenience and versatility. It enables simultaneous participation in multiple conversations, supports comments and emoji reactions, and allows users to share screenshots, videos, and code snippets. Its functionality extends to making calls in huddle sessions. Given these robust features, Bondar Academy has chosen Slack as our primary communication platform, facilitating seamless interaction and collaboration.","body":"As a new member of Bondar Academy, one of your initial steps should be registering for the Bondar Academy Slack Workspace. Upon registration at Bondar Academy, you'll receive a welcome email containing the URL to join. This Workspace serves as a central hub for communication with instructors and fellow students. Whether you have a question, need to share code, or want to upload screenshots, Slack makes it easy and efficient. Moreover, its compatibility with both desktop and mobile devices, by downloading and installing the app, ensures you can stay connected with your instructors and the community wherever you go.","tagList":["Slack","Community","Collaboration"],"createdAt":"2024-01-27T21:38:27.992Z","updatedAt":"2024-01-27T21:38:27.992Z","favorited":false,"favoritesCount":59,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Stay-Ahead-with-Bondar-Academy:-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1","title":"Stay Ahead with Bondar Academy: Subscribe to Our YouTube channel for Latest Tech and Education Updates","description":"Who doesn't appreciate high-quality free resources? YouTube serves as an ideal platform for sharing the latest news, updates, and a wealth of tips and tricks in test automation and technology. Keep abreast of these invaluable insights by subscribing to the @bondaracademy YouTube channel.","body":"Who doesn't appreciate high-quality free resources? \n\nYouTube serves as an ideal platform for sharing the latest news, updates, and a wealth of tips and tricks in test automation and technology. \n\nKeep abreast of these invaluable insights by subscribing to our YouTube channel: https://www.youtube.com/@bondaracademy","tagList":["YouTube"],"createdAt":"2024-01-27T21:36:32.360Z","updatedAt":"2024-01-27T21:36:32.360Z","favorited":false,"favoritesCount":57,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Explore-the-Latest-in-Learning:-Bondar-Academy-Blog's-Educational-Insights-from-Our-Experts-1","title":"Explore the Latest in Learning: Bondar Academy Blog's Educational Insights from Our Experts","description":"Discover a treasure trove of knowledge on the Bondar Academy blog. Here, we share an array of tips, techniques, and valuable educational materials, all designed to keep you abreast of the latest technological trends and best practices. For easy access and continual learning, consider bookmarking our blog in your browser.","body":"On the Bondar Academy blog, we consistently provide insightful and pertinent updates on the latest in technology, test automation, and industry best practices. For your convenience, we recommend adding our blog to your browser's bookmarks. Our commitment to keeping you informed is reflected in our weekly posts, each focusing on a significant topic of the week.\n\nWe value your input and invite you to contribute to our ever-evolving content. If you have any suggestions or specific topics you'd like us to explore, please feel free to share your ideas in the Bondar Academy Slack workspace. \n\nDiscover our blog here: https://www.bondaracademy.com/blog\n","tagList":["Blog"],"createdAt":"2024-01-27T21:34:04.531Z","updatedAt":"2024-01-27T21:34:04.531Z","favorited":false,"favoritesCount":59,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}},{"slug":"Take-the-Next-Step:-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1","title":"Take the Next Step: Join Bondar Academy Today and Enroll into the class","description":"Are you prepared to transform your educational journey? Begin by signing up at Bondar Academy, then register for our Slack Workspace to start exploring. We offer a range of classes, with some being completely free and others featuring free previews of the initial sections. This allows you to experience our content and teaching approach firsthand, helping you make an informed decision before enrolling in a class.","body":"Are you prepared to transform your educational journey? \n\nBegin by signing up at Bondar Academy, then register for our Slack Workspace to start exploring. We offer a range of classes, with some being completely free and others featuring free previews of the initial sections. This allows you to experience our content and teaching approach firsthand, helping you make an informed decision before enrolling in a class.\n\nClick here to enroll: https://www.bondaracademy.com","tagList":["Enroll","Start for Free"],"createdAt":"2024-01-27T21:32:21.056Z","updatedAt":"2024-01-27T21:32:21.056Z","favorited":false,"favoritesCount":62,"author":{"username":"Artem Bondar","bio":null,"image":"https://storage.googleapis.com/bondar-academy-visuals/Android.png","following":false}}],"articlesCount":10}
+
+10:30:27.365 [main] INFO  com.intuit.karate - karate.env system property was: null 
+10:30:27.592 [main] DEBUG com.intuit.karate - request:
+1 > POST https://conduit-api.bondaracademy.com/api/users
+1 > Content-Type: application/json; charset=UTF-8
+1 > Content-Length: 94
+1 > Host: conduit-api.bondaracademy.com
+1 > Connection: Keep-Alive
+1 > User-Agent: Apache-HttpClient/4.5.14 (Java/21.0.8)
+1 > Accept-Encoding: gzip,deflate
+{"user":{"username":"fredric.bernier","email":"amos.11@testemail.com","password":"Test@1234"}}
+
+10:30:28.050 [main] DEBUG com.intuit.karate - response time in milliseconds: 457
+1 < 201
+1 < x-powered-by: Express
+1 < vary: Origin
+1 < content-type: application/json; charset=utf-8
+1 < etag: W/"14c-NJhSph+iI9Q38q2eCRkEXFLAmBE"
+1 < x-cloud-trace-context: 805d13a5b3a5be9f0627e1253f097b8a
+1 < date: Tue, 07 Oct 2025 05:00:27 GMT
+1 < server: Google Frontend
+1 < Content-Length: 332
+{"user":{"id":36461,"email":"amos.11@testemail.com","username":"fredric.bernier","bio":null,"image":"https://conduit-api.bondaracademy.com/images/smiley-cyrus.jpeg","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjozNjQ2MX0sImlhdCI6MTc1OTgxMzIyNywiZXhwIjoxNzY0OTk3MjI3fQ.JfEt0_J8brM2XUoztozL3AAKrFWSwp7LHd1mz6MTjzE"}}
+
