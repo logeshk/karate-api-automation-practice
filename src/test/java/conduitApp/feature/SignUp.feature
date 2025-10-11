@@ -21,4 +21,4 @@ Scenario: Sign Up new user with valid data
 """
     When method post
     Then status 201
-    
+   
