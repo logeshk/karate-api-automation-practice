@@ -36,23 +36,3 @@ Scenario: Get 10 articles from the page
              }
     }
   """
-  
-#   And match each response.articles[*] ==
-# """
-#     {
-#             "slug": "#string",
-#             "title": "#string",
-#             "description": "#string",
-#             "body": "#string",
-#             //"tagList": "#array of #string",
-#             "createdAt": "#? timeValidator(_)",
-#             "updatedAt": "#? timeValidator(_)",
-#             "favorited": "#boolean",
-#             "favoritesCount": "#number",
-#             "author": {
-#                 "username": "#string",
-#                 "bio": "#string",
-#                 "image": "#string",
-#                 "following": "#boolean"
-#             }
-# """
