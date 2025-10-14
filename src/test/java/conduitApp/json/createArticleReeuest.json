@@ -1,0 +1,8 @@
+{
+    "article": {
+        "title": #(articleTitle),
+        "description": "API Test using karate",
+        "body": "Testing the article ",
+        "tagList": []
+    }
+}
